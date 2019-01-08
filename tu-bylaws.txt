@@ -98,7 +98,9 @@ the beginning of the voting period.
 Addition of a TU
 ----------------
 
-The addition of a TU may occur at any time.
+The application to become a TU may occur at any time after a period of four
+weeks have passed, from the ending date and time, of the most recent TU
+application vote.
 
 In order to become a TU, one must first find a sponsoring TU,
 and arrange privately with them to announce their candidacy on the
